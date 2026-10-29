@@ -1,0 +1,13 @@
+# Personal data. Never commit. Keeps the template safe to push.
+/me/*
+!/me/docs/
+/me/docs/*
+!/me/docs/.gitkeep
+/tracker.md
+/programs/*
+!/programs/.gitkeep
+/funding/*
+!/funding/.gitkeep
+/writing/*
+!/writing/.gitkeep
+.claude/settings.local.json
